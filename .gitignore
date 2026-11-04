@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Credentials and secrets
+.env
+*.pem
+.aws/
+credentials
+secrets.json
+
+# Airflow files
+airflow.db
+airflow.cfg
+logs/
+simple_auth_manager_passwords.json.generated
+
+# Generated data
+*.csv
+*.json
