@@ -153,23 +153,27 @@ Each successful execution creates a new timestamped CSV file.
 
 ## Screenshots
 
-Screenshots demonstrating the project execution and output will be added here.
+
 
 ### Airflow DAG
 
-<!-- Add Airflow DAG screenshot here -->
+<img width="977" height="435" alt="image" src="https://github.com/user-attachments/assets/05372f95-f6b8-4de7-b07a-b0f04a16e8e0" />
+
 
 ### Successful DAG Execution
 
-<!-- Add Airflow task execution screenshot here -->
+<img width="908" height="289" alt="image" src="https://github.com/user-attachments/assets/69f3092f-cfbc-48f8-b606-ab888973534a" />
+
 
 ### Amazon S3 Output
 
-<!-- Add S3 bucket screenshot here -->
+<img width="1334" height="400" alt="image" src="https://github.com/user-attachments/assets/472445d3-ae1d-4fcd-8da6-0a923b373e5d" />
+
 
 ### Transformed CSV Data
 
-<!-- Add CSV preview screenshot here -->
+<img width="960" height="41" alt="image" src="https://github.com/user-attachments/assets/26a619d6-8a87-4cf2-ad4f-6b33c7d8ec15" />
+
 
 ## Key Learning Outcomes
 
