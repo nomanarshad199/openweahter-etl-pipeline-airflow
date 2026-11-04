@@ -1,0 +1,7 @@
+apache-airflow==3.3.2
+apache-airflow-providers-http
+pandas
+boto3apache-airflow==3.3.2
+apache-airflow-providers-http
+pandas
+boto3
